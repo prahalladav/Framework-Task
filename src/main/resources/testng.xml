@@ -3,6 +3,7 @@
     <test name="Calculator Test">
         <classes>
             <class name="tests.CalculatorTest"/>
+
         </classes>
     </test>
 </suite>

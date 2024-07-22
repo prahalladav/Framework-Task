@@ -119,5 +119,4 @@ public class CalculatorPage {
     public void clickopenEstimate() {
         wait.until(ExpectedConditions.visibilityOf(openEstimate)).click();
     }
-
 }

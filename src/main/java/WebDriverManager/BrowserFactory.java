@@ -21,4 +21,5 @@ public class BrowserFactory {
             driver = null;
         }
     }
+
 }

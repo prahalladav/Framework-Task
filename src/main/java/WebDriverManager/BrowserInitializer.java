@@ -28,4 +28,5 @@ public class BrowserInitializer {
         driver.manage().window().maximize();
         return driver;
     }
+
 }

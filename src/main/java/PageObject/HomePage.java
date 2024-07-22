@@ -35,5 +35,4 @@ public class HomePage
         wait.until(ExpectedConditions.visibilityOf(computeEngine)).click();
     }
 
-
 }

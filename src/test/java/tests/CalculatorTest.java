@@ -27,7 +27,6 @@ public class CalculatorTest {
         driver.manage().window().maximize();
     }
 
-
     @Test(priority = 1)
     public void testCostEstimate() throws InterruptedException {
         task.clickAddtoEstimate();
