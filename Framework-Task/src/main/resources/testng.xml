@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smoke Tests">
+    <test name="Calculator Test">
+        <classes>
+            <class name="tests.CalculatorTest"/>
+
+        </classes>
+    </test>
+</suite>
